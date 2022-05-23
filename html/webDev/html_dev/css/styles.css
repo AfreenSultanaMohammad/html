@@ -1,0 +1,20 @@
+body{
+    background-color:#f0ffff; 
+    font-size: small;
+}
+hr{
+
+   /*border-style: dashed none none none;*/
+   border-style: none;
+   border-top-style: dotted;
+    width: 10%;
+    border-color: thistle;
+    border-width: 5px;
+}
+
+h1{
+    color:orchid;
+}
+h3{
+    color:peru;
+}

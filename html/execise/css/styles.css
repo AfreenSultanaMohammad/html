@@ -1,0 +1,36 @@
+body{
+    margin:0;
+}
+div{
+    display: inline-block;
+    position: relative;
+}
+
+
+
+.red{
+    width: 200px;
+    height: 200px;
+    background-color:red ;
+    left:400px
+   
+
+}
+.blue{
+    
+    width: 200px;
+    height: 200px;
+    background-color:blue ;
+  right:200px
+   
+   
+   
+  
+  
+}
+.yellow{
+    width: 200px;
+    height: 200px;
+    background-color:yellow ;
+    right:200px;
+}
